@@ -166,3 +166,5 @@ index=x-1;
 Svalue='ctl00_ContentPlaceHolder1_rptFeedback_ctl0'+i+'_dgFeedback_ctl0'+x+'_txtFlag';
 HighlightRow(rdo,index,Svalue);
 document.getElementById('ctl00_ContentPlaceHolder1_txtComments').value="Very helpful teacher.";
+
+document.getElementById("ctl00_ContentPlaceHolder1_btnSubmit").click();
